@@ -46,6 +46,6 @@ ma = mayor(lista)
 mu = multiplicacion(lista)
 o = ordenar(lista)
 print ("suma: ", s, " resta: ", r, " promedio: ", p, " mayor: ", ma, " multplicacion: ", mu)
-print ("lista ordenada: ", o)
+print ("lista ordenada de menor a mayor: ", o)
 input()
 
